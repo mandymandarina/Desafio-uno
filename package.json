@@ -1,0 +1,19 @@
+{
+  "name": "desafio-uno",
+  "version": "1.0.0",
+  "description": "seccion de comentarios",
+  "main": "index.js",
+  "scripts": {
+    "test": "desafio 1"
+  },
+  "keywords": [
+    "desafio",
+    "comentarios"
+  ],
+  "author": "Miranda naranjo",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
+}
