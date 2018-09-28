@@ -16,3 +16,8 @@
   margin-top:5%;
   margin-left: 5%;
 }
+
+.btnGreen{
+  background-color: green;
+  border-color: green;
+}
