@@ -1,3 +1,6 @@
+body{
+  background-image: url(../../assets/img/sky-828648_1920.jpg);  
+}
 .form-control{
   width: 50%;
   margin-top: 15%;
@@ -13,11 +16,23 @@
   margin-left: 50%;
 }
 .comment{
-  margin-top:5%;
-  margin-left: 5%;
+ margin: 5px;
+ border-color: black;
 }
 
 .btnGreen{
   background-color: green;
   border-color: green;
+}
+#contComment{
+  background-color: aliceblue;
+}
+.form-control{
+  background-color: rgba(255, 13, 13, 0.288);
+}
+h3{
+  color: white;
+}
+.containerMen{
+border:black;
 }

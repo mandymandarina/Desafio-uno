@@ -23,7 +23,7 @@ function saveComment() {
 // Buscar mensajes desde data
 firebase.database().ref('comments').on('child_added', (newMessage)=> {  
   let modiText = newMessage.val().text; 
-  contComment.innerHTML += `<div>
+  contComment.innerHTML += `<div class="containerMen">
   ${newMessage.val().text} <button class="btn-danger" id="btnDelete" ><i class="fas fa-trash" data-id="${newMessage.key}" onclick="preguntar()"></i>Eliminar</div></button>`;
 });
 
