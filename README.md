@@ -13,3 +13,5 @@ Se creo una interfaz web que representa la seccion de comentarios de una página
 En esta seccion de comentarios se utilizó JavaScript puro, y para guardar los comentarios se utilizo Firebase.
 
 # Deploy
+
+Puedes ver la pagina desplegada dandole click al siguiente link[https://mandymandarina.github.io/PinterestAngular/]
