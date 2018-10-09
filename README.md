@@ -14,4 +14,4 @@ En esta seccion de comentarios se utilizó JavaScript puro, y para guardar los c
 
 # Deploy
 
-Puedes ver la pagina desplegada dandole click al siguiente link [aquí]https://mandymandarina.github.io/PinterestAngular/)
+Puedes ver la pagina desplegada dandole click al siguiente link [aquí](https://mandymandarina.github.io/PinterestAngular/)
