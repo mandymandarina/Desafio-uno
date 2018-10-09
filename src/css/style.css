@@ -1,10 +1,16 @@
 body{
-  background-image: url(../../assets/img/sky-828648_1920.jpg);  
+  background-image: url(../../assets/img/photo-1530919424169-4b95f917e937\ \(1\).jpg);
+  background-repeat: no-repeat; 
 }
-.form-control{
+h1{
+  color: white;
+  margin-left: 35%;
+  font-family: Impact, Charcoal, sans-serif;
+}
+.form-control{  
   width: 50%;
-  margin-top: 15%;
-  margin-left: 20%;
+  margin-top: 5%;
+  margin-left: 25%;
   text-align: center;
   height: 25vh;
   border-width: 0.2em;
@@ -12,8 +18,7 @@ body{
 }
 .btn-danger{
   border-radius: 4px;  
-  margin-top:5%;
-  margin-left: 50%;
+  margin-top:5%;    
 }
 .comment{
  margin: 5px;
@@ -21,8 +26,9 @@ body{
 }
 
 .btnGreen{
-  background-color: green;
-  border-color: green;
+  background-color: #02355e;
+  border-color: #02355e;
+  margin-left: 50%;    
 }
 #contComment{
   background-color: aliceblue;
@@ -32,7 +38,13 @@ body{
 }
 h3{
   color: white;
+  font-family: Impact, Charcoal, sans-serif;
 }
 .containerMen{
 border:black;
+margin: 10px;
+}
+.container2{  
+  margin-right: 12%;
+  margin-top: -4%;
 }
